@@ -80,5 +80,5 @@ B.Tech CSE(AIML), 1st Year
 VIT Bhopal University
 
 ## 📅 Submitted For
-AI/ML Course Project
-Registration no. 25BAI11532
+-AI/ML Course Project
+-Registration no. 25BAI11532
