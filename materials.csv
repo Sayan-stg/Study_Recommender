@@ -1,0 +1,31 @@
+id,title,subject,difficulty,type,url,base_score
+1,Python Basics - Variables & Loops,Python,Easy,Video,https://youtube.com/pybasics,3.5
+2,Python Functions Deep Dive,Python,Medium,Video,https://youtube.com/pyfunc,3.5
+3,Python OOP Concepts,Python,Hard,Video,https://youtube.com/pyoop,3.5
+4,Python Notes - Beginner Guide,Python,Easy,Notes,https://notes.com/pybegin,3.5
+5,Python Cheat Sheet,Python,Medium,Notes,https://notes.com/pycheat,3.5
+6,Python Practice Problems Set 1,Python,Easy,Practice,https://practice.com/py1,3.5
+7,Python Practice Problems Set 2,Python,Medium,Practice,https://practice.com/py2,3.5
+8,Python Advanced Challenges,Python,Hard,Practice,https://practice.com/pyhard,3.5
+9,Math - Calculus Intro,Math,Easy,Video,https://youtube.com/calc1,3.5
+10,Math - Derivatives Explained,Math,Medium,Video,https://youtube.com/deriv,3.5
+11,Math - Integration Techniques,Math,Hard,Video,https://youtube.com/integ,3.5
+12,Math Notes - Algebra Basics,Math,Easy,Notes,https://notes.com/algebra,3.5
+13,Math Notes - Probability,Math,Medium,Notes,https://notes.com/prob,3.5
+14,Math Practice - Easy Sums,Math,Easy,Practice,https://practice.com/math1,3.5
+15,Math Practice - Hard Problems,Math,Hard,Practice,https://practice.com/mathhard,3.5
+16,DSA - Arrays and Strings,DSA,Easy,Video,https://youtube.com/arrays,3.5
+17,DSA - Linked Lists,DSA,Medium,Video,https://youtube.com/linkedlist,3.5
+18,DSA - Trees and Graphs,DSA,Hard,Video,https://youtube.com/trees,3.5
+19,DSA Notes - Big O Notation,DSA,Easy,Notes,https://notes.com/bigo,3.5
+20,DSA Notes - Sorting Algorithms,DSA,Medium,Notes,https://notes.com/sort,3.5
+21,DSA Practice - Easy Coding,DSA,Easy,Practice,https://practice.com/dsa1,3.5
+22,DSA Practice - Medium Coding,DSA,Medium,Practice,https://practice.com/dsa2,3.5
+23,DSA Practice - Hard Coding,DSA,Hard,Practice,https://practice.com/dsahard,3.5
+24,AI - Introduction to AI,AI,Easy,Video,https://youtube.com/aiintro,3.5
+25,AI - Search Algorithms,AI,Medium,Video,https://youtube.com/aisearch,3.5
+26,AI - Neural Networks Basics,AI,Hard,Video,https://youtube.com/nn,3.5
+27,AI Notes - Agents and Environments,AI,Easy,Notes,https://notes.com/agents,3.5
+28,AI Notes - Heuristic Search,AI,Medium,Notes,https://notes.com/heuristic,3.5
+29,AI Practice - Logic Problems,AI,Easy,Practice,https://practice.com/ai1,3.5
+30,AI Practice - Search Problems,AI,Medium,Practice,https://practice.com/ai2,3.5
